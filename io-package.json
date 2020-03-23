@@ -59,7 +59,7 @@
         "readme": "https://github.com/Author/ioBroker.template/blob/master/README.md",
         "loglevel": "info",
         "mode": "daemon",
-        "type": "general",
+        "type": "hardware",
         "compact": true,
         "materialize": true,
         "materializeTab": true,
